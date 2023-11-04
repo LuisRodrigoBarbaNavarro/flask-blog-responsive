@@ -8,6 +8,6 @@
 
 **Fecha (Creación):** 3/11/23
 
-**Descripción:**
+**Descripción:** Una aplicación en Flask que ofrece un blog responsivo inspirado en el proyecto de la unidad 2.
 
 ---
